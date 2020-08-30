@@ -5,6 +5,9 @@ import Particles from 'react-particles-js';
 function Particle(){
     return(
     <div className="main">
+      <div className="heading">
+        <h1>App Name</h1>
+      </div>
    <Particles
   params={{
     particles: {
